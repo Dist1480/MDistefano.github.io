@@ -1,3 +1,3 @@
-# Contact Us
+# Contact Me
 
-We would love to hear from you.
+<p>If you would like to make an project inquiry, or business discussion, I would love to hear from you</p>
